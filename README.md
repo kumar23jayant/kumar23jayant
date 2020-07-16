@@ -1,4 +1,7 @@
-### Hi there 👋
+<h3 align="center">👋 Hi, I'm Jayant.</h3>
+<p align="center">
+  | CSE Graduate - Mobile App Developer - Works @ Airtel |
+</p>
 
 <!--
 **kumar23jayant/kumar23jayant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
