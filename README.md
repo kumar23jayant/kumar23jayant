@@ -2,6 +2,10 @@
 <p align="center">
   | CSE Graduate - Mobile App Developer - Works @ Airtel |
 </p>
+<br>
+<p align="center">
+<img src="https://media.giphy.com/media/l0K4c7ic4tmbF8zHq/giphy.gif" alt="G'day! I'm Tim!" />
+</p>
 
 <!--
 **kumar23jayant/kumar23jayant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
