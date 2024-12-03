@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi, I'm Jayant.</h3>
 <p align="center">
-  | CSE Graduate - Mobile App Developer - Works @ Airtel |
+  | CSE Graduate - Mobile App Developer - Works @ Flipkart |
 </p>
 <br>
 <p align="center">
